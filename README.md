@@ -1,5 +1,3 @@
-## Bem vindo(a) ao meu perfil 👋
-
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c5YzcwNm5vaWRiN2FobTZlNnpmbnMybDl3M3UwYnVlbTRuenViMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.gif" title="Baby Yoda"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E67F8&width=435&lines=Hello+there!+I'm+Kelvin+Rodrigues+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Oi!+Eu+sou+Kelvin+Rodrigues+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
