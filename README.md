@@ -12,7 +12,7 @@
 ### ⭐ Informações sobre minha conta GitHub
 <div>
    <a href="https://github.com/nivlekrod">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Minhas Redes Sociais
