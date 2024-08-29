@@ -10,12 +10,7 @@
 <div>
 
 ### ⭐ Informações sobre minha conta GitHub
-<<<<<<< HEAD
 [![card](https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true)](https://github.com/nivlekrod)
-
-=======
-[![card](https://github-readme-stats.vercel.app/api?username=nivlekrod&theme=dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> 9cfcdeaed0319ce88b7eb7fa9e34a52f54dc9a8a
 </div>
 
 ### Minhas Redes Sociais
