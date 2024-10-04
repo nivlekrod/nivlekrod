@@ -10,7 +10,8 @@
 <div>
 
 ### ⭐ Informações sobre minha conta GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true)](https://github.com/nivlekrod)
+[![card](https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=shadow_green&&text_color=d4d4d8&include_all_commits=true&count_private=true)](https://github.com/nivlekrod)
+
 </div>
 
 ### Minhas Redes Sociais
@@ -19,7 +20,6 @@
 
 <a href="https://www.linkedin.com/in/kelvin-rodrigues-08206324a/"><img src="https://img.shields.io/badge/LinkedIn-0050B5?style=flat&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="mailto:kmrkelvin@gmail.com"><img src="https://img.shields.io/badge/-kmrkelvin@gmail.com-9D2235?style=flat&logo=gmail&logoColor=white" target="_blank"/></a>
-<a href="https://www.instagram.com/kmr_kelvin/"><img src="https://img.shields.io/badge/-kmr__kelvin-DD3224?style=flar&logo=instagram&logoColor=white" target="_blank"/></a>
 
 </div>
 </ul>
