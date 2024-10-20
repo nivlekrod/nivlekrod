@@ -18,7 +18,7 @@
 
 <div align="">
 
-<a href="https://www.linkedin.com/in/kelvin-rodrigues-08206324a/"><img src="https://img.shields.io/badge/LinkedIn-0050B5?style=flat&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/kelvin-rodrigues-dev/"><img src="https://img.shields.io/badge/LinkedIn-0050B5?style=flat&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="mailto:kmrkelvin@gmail.com"><img src="https://img.shields.io/badge/-kmrkelvin@gmail.com-9D2235?style=flat&logo=gmail&logoColor=white" target="_blank"/></a>
 
 </div>
