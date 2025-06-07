@@ -17,7 +17,7 @@
   
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=shadow_green&text_color=000000&include_all_commits=true&count_private=true">
+    srcset="https://github-readme-stats.vercel.app/api?username=nivlekrod&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true">
 
   <img 
     alt="GitHub stats card"
